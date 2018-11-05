@@ -1,2 +1,0 @@
-# ajayganagarapu
-azure
